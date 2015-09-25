@@ -2,3 +2,18 @@
   width: 30em;
   height: 3em;
 }
+
+body {
+  background-image: url('https://totallytwitter.files.wordpress.com/2011/07/twitter1.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Passion One', cursive;
+}
+
+body h1, h2, h3, h4, h5, h6 {
+  font-family: 'Passion One', cursive;
+}
+
+ul {
+  list-style: none;
+}
