@@ -5,7 +5,7 @@
 
 body {
   background-image: url('https://totallytwitter.files.wordpress.com/2011/07/twitter1.png');
-  background-repeat: no-repeat;
+  background-repeat: repeat-y;
   background-size: cover;
   background-position: center;
   font-family: 'Bubblegum Sans', cursive;
