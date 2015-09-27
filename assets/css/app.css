@@ -3,23 +3,26 @@
   height: 3em;
 }
 
-html {
-  height: 100%;
-}
-
 body {
   background-image: url('https://totallytwitter.files.wordpress.com/2011/07/twitter1.png');
-  height: 100%;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  font-family: 'Passion One', cursive;
+  font-family: 'Bubblegum Sans', cursive;
 }
 
-body h1, h2, h3, h4, h5, h6 {
-  font-family: 'Passion One', cursive;
+body h3 {
+  font-family: 'Bubblegum Sans', cursive;
 }
 
 ul {
   list-style: none;
+}
+
+.list h4, h5 {
+  font-family: 'Indie Flower', cursive;
+}
+
+.list {
+  font-family: 'Bubblegum Sans', cursive;
 }
